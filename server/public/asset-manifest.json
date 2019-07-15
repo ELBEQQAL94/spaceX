@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10e4a3ea.chunk.css",
+    "main.js": "/static/js/main.89006b51.chunk.js",
+    "main.js.map": "/static/js/main.89006b51.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.a5be2b3e.chunk.js": "/static/js/2.a5be2b3e.chunk.js",
+    "static/js/2.a5be2b3e.chunk.js.map": "/static/js/2.a5be2b3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.114c06e45c40e2eb7e9726eb385e0920.js": "/precache-manifest.114c06e45c40e2eb7e9726eb385e0920.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.10e4a3ea.chunk.css.map": "/static/css/main.10e4a3ea.chunk.css.map",
+    "static/media/SpaceX-Logo.svg.png": "/static/media/SpaceX-Logo.svg.950ba665.png"
+  }
+}
